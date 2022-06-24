@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "esp8266:esp8266:nodemcuv2:baud=115200,dbg=Disabled,eesz=4M,exception=enabled,ip=lm2f,lvl=SSLTLS_MEMHTTP_CLIENTHTTP_SERVERCOREWIFIHTTP_UPDATEUPDATEROTAOOM,vt=flash,wipe=all,xtal=80",
+    "name": "NodeMCU 1.0 (ESP-12E Module)",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
